@@ -17,7 +17,7 @@ Install Unity with the following command:
 Install-Package Unity
 ```
 
-Unity 5.x loosely follow Semantic Versioning — minor releases may introduce breaking changes. [Floating version references](https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files#floating-versions) should lock in the minor version in addition to the major version:
+Unity 5.x loosely follows Semantic Versioning — minor releases may introduce breaking changes. [Floating version references](https://docs.microsoft.com/en-us/nuget/consume-packages/package-references-in-project-files#floating-versions) should lock in the minor version in addition to the major version:
 
 ```
 <PackageReference Include="Unity.Container" Version="5.9.*" />
