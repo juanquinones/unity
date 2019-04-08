@@ -1,0 +1,18 @@
+{
+  "solution": {
+    "path": "Develop.sln",
+    "projects": [
+      "Abstractions\\src\\Unity.Abstractions.csproj",
+      "Container\\src\\Unity.Container.csproj",
+      "Container\\tests\\Unity.Diagnostic.Async\\Unity.Specification.Tests.Diagnostic.Async.csproj",
+      "Container\\tests\\Unity.Diagnostic\\Unity.Specification.Tests.Diagnostic.csproj",
+      "Container\\tests\\Unity.Specification.Async\\Unity.Specification.Tests.Async.csproj",
+      "Container\\tests\\Unity.Specification\\Unity.Specification.Tests.csproj",
+      "Container\\tests\\Unity.Tests\\Unity.Tests.csproj",
+      "SpecificationTestsAsync\\diagnostic\\Unity.Specification.Diagnostic.Async.csproj",
+      "SpecificationTestsAsync\\src\\Unity.Specification.Async.csproj",
+      "SpecificationTests\\diagnostic\\Unity.Specification.Diagnostic.csproj",
+      "SpecificationTests\\src\\Unity.Specification.csproj"
+    ]
+  }
+}
